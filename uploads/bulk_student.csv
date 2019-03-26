@@ -1,0 +1,10 @@
+StudentName,Id,Email,Password,Phone,Address,ParentID,Gender
+okasha ,1,okasha,okasha,111111111,xxxx,1,male
+khan,2,asdf1,okasha,1212,xxxx,2,male
+lalala,3,asdf2,okasha,1212,xxxx,3,male
+yasir,4,asdf3,okasha,12121,xxxx,4,male
+yasin,5,asdf4,okasha,12121313,xxxx,5,male
+turat,6,asdf5,okasha,14,xxxx,6,male
+ali,7,asdf6,okasha,4,xxxx,7,male
+badsha,8,asdf7,okasha,141,xxxx,8,male
+lewany,9,asdf8,okasha,541,xxxx,9,male
